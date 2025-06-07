@@ -1,1 +1,152 @@
-# MARRIAGE-INVITATION
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="stylee.css">
+    <b>
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+          content="width=device-width,
+                   initial-scale=1.0">
+
+
+   
+    <title>
+             jimin & subha - We
+           are getting Married
+           <link rel="stylesheet" href="inv.css">
+    </title>
+<!-- Google Fonts -->
+<link rel="stylesheet" 
+href=
+"https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap">
+
+<!-- Font Awesome Icons -->
+<link rel="stylesheet" 
+href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="stylesheet" 
+href="styles.css">
+    
+</head>
+
+<body>
+    <script src="subha.js"></script>
+    <header>
+        <h1>
+            PARK JIMIN
+            <i class="fas fa-heart"></i>
+            SUBHA PRADHA
+        </h1>
+        <h2>We are Getting Married</h2>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="#our-story">
+                    <i class="fas fa-heart"></i>
+                    Our Story
+                </a>
+            </li>
+            <li>
+                <a href="#the-date">
+                    <i class="far fa-calendar-alt"></i>
+                    The Date & Venue
+                </a>
+            </li>
+            <li>
+                <a href="#rsvp">
+                    <i class="fas fa-check"></i>
+                    RSVP
+                </a>
+            </li>
+            <li>
+                <a href="#gallery">
+                    <i class="far fa-image"></i>
+                    Gallery
+                </a>
+            </li>
+            <li>
+                <a href="#wishes">
+                    <i class="fas fa-feather-alt"></i>
+                    Share Your Wishes
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <main>
+        <section id="our-story">
+            <h2>
+                <i class="fas fa-heart"></i>
+                Our Happily Ever After Begins...
+            </h2>
+            <p style="color:red">
+                jimin is a kpop idol subha is fan of jimin,firstly subha fell in love with jimin but
+                jimin fell harder.subha confessed her love in a live concert jimin said yess.....
+            </p>
+        </section>
+        <section id="the-date">
+            <h2>
+                <i class="far fa-calendar-alt"></i>
+                Mark Your Calendars!
+            </h2>
+            <p>
+                jimin and subha are about to tie the knot. The wedding is on sunday(16.12.2027)!”
+            </p>
+            <p>
+                Busan,South Korea
+            </p>
+        </section>
+        <section id="rsvp">
+            <h2>
+                <i class="fas fa-check"></i>
+                Save your TIME for us 
+            </h2>
+            <p>
+                Please RSVP by 12 November so
+                we can finalize our enchanted
+                guest list...
+            </p>
+            <a href="#">
+                <i class="far fa-edit"></i>
+                RSVP Here
+            </a>
+        </section>
+        <section id="gallery">
+            <h2>
+                <i class="far fa-images"></i>
+                Memories to Last a Lifetime
+            </h2>
+        </section>
+        <section id="wishes">
+            <h2>
+                <i class="fas fa-feather-alt"></i>
+                Shower us with Love & Laughter!
+            </h2>
+            <p>
+                Leave your heartfelt wishes for
+                our endless love and joy....
+            </p>
+            <form action="/" method="post">
+                <label for="name">
+                    Your Name
+                </label>
+                <input type="text"
+                       name="name" 
+                       id="name" required>
+                <label for="message">
+                    Your Warmest Wishes
+                </label>
+                <textarea name="message" 
+                          id="message" required>
+                </textarea>
+                <button type="submit">
+                    <i class="far fa-paper-plane"></i>
+                    Send your Wishes
+                </button>
+            </form>
+        </section>
+    </main>
+  </body>
+
+ </html># MARRIAGE-INVITATION
